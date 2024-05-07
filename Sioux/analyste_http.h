@@ -1,0 +1,2 @@
+int gestionClient(int s);
+
