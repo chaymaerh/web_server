@@ -3,7 +3,9 @@
 Develop a multithreaded web server "Sioux" allowing clients to receive a web page. Clients can respond to a vote by choosing their favorite photo. The results will be written into a vote.csv file generated after the vote.
 
 <h3 align="left">To compile</h3>
-make
+```
+$ make
+```
 
 <h3 align="left">To launch the server</h3>
 
